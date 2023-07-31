@@ -1,0 +1,44 @@
+{
+  "id": "4145671",
+  "name": "信号",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36613330",
+      "name": "搜索-copy",
+      "font_class": "sousuo-copy",
+      "unicode": "ec7a",
+      "unicode_decimal": 60538
+    },
+    {
+      "icon_id": "18923165",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "1374",
+      "name": "信号",
+      "font_class": "xinhao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5983093",
+      "name": "无线电波",
+      "font_class": "wuxiandianbo",
+      "unicode": "ec79",
+      "unicode_decimal": 60537
+    },
+    {
+      "icon_id": "18169885",
+      "name": "路由器,信号路由,发射信号",
+      "font_class": "signal",
+      "unicode": "e950",
+      "unicode_decimal": 59728
+    }
+  ]
+}
